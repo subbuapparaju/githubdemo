@@ -10,5 +10,6 @@ public class Test1
 		System.out.println("Subtraction is "+(a-b));
 		System.out.println("multiplication is "+(a*b));
 		System.out.println("divison is "+(a/b));
+		System.out.println("square is "+(a*a));
 	}
 }
