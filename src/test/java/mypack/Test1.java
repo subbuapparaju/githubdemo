@@ -6,6 +6,10 @@ public class Test1
 	{
 		int a=10;
 		int b=20;
-		System.out.println(a+b);
+		System.out.println("Addition is "+(a+b));
+		System.out.println("Subtraction is "+(a-b));
+		System.out.println("multiplication is "+(a*b));
+		System.out.println("divison is "+(a/b));
+		System.out.println("square is "+(a*a));
 	}
 }
