@@ -11,5 +11,6 @@ public class Test1
 		System.out.println("multiplication is "+(a*b));
 		System.out.println("divison is "+(a/b));
 		System.out.println("square is "+(a*a));
+		System.out.println("hi sir")
 	}
 }
